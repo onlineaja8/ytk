@@ -1,0 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Allow: /
+
+# Dynamic sitemap URL that will use the current domain
+Sitemap: https://{host}/sitemap.xml
+
